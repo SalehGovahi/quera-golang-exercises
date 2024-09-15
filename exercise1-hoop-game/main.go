@@ -13,7 +13,7 @@ func main() {
 		if start % number1 == 0 {
 			hoopCount := start / number1
 			for i := 0; i < hoopCount; i++ {
-				fmt.Print("hoop ")
+				fmt.Print("Hope ")
 			}
 			fmt.Printf("\n")
 		} else {
